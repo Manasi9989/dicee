@@ -26,11 +26,3 @@
       
 
     </div>
-
-    <script src="index.js" charset="utf-8" type="text/javascript"></script>
-
-
-  </body>
-
-
-</html>
